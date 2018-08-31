@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "1d6944ed3da43e223b78a3b59aadb801"
+build_time: [1535700963, 656383000]
+inputs:
+  "/Users/jackwong/iOS-Conflict/iOS-Conflict/iOS-Conflict/ViewController.swift": [1535700954, 0]
+  "/Users/jackwong/iOS-Conflict/iOS-Conflict/iOS-Conflict/AppDelegate.swift": [1535700954, 0]
