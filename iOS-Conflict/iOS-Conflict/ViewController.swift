@@ -14,10 +14,11 @@ final class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("abc")
+        
         print("Hello World")
-        print(123)
+        print(12311111111)
         print(number)
+        print("JACK")
     }
 }
 
