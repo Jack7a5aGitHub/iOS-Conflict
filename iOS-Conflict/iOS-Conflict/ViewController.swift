@@ -18,6 +18,8 @@ final class ViewController: UIViewController {
         print("Hello World")
         print(123)
         print(number)
+        print("001")
+        print("00000001")
     }
 }
 
