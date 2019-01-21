@@ -17,8 +17,6 @@ final class ViewController: UIViewController {
         
         print("Hello World")
         print(12311111111)
-        print(number)
-        print("JACK")
     }
 }
 
